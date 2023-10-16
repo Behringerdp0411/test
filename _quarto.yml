@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "test"
+  title: "Boating and Angling Interview Trial (BAIT)"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Project Description.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

@@ -7,12 +7,13 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
       - Project Description.qmd
+      - Data Collected.qmd
+      - Additional Information.qmd
 
 format:
   html:
-    theme: sandstone
+    theme: lux
     css: styles.css
     toc: true
 

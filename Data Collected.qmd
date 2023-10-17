@@ -1,0 +1,10 @@
+---
+title: "Data Collected"
+editor: visual
+---
+
+**Trip Information:** Type of boating activities, location, time of day, duration of trip, size of group
+
+**Fishing Information:** Type of fishing, gear,
+
+**Catch Information:** Species caught, disposition (kept or released), number of fish, length and weight
